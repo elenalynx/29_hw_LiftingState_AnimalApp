@@ -26,9 +26,8 @@ form input {
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     padding: 5px 8px;
     width: 100%;
-    overflow: scroll;
 }
 
 form .display {
-    overflow: scroll;
+    overflow-x: scroll;
 }
